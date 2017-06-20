@@ -25,14 +25,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![Walkthrough](walkthrough.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-I enctounred a challenge trying to use the default android studio emulator. I utilized my phone to overcome this challenge. Phone used is s8
+
+I encounterd a challenge trying to use the default android studio emulator. I utilized my phone to overcome this challenge. Phone used is S8.
 ## License
 
     Copyright [2017] [Daniel Calderon]
