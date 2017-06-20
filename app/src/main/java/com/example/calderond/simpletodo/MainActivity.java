@@ -18,7 +18,6 @@ import java.io.IOException;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
-
     //A numeric code to identify the edit acvtivity
     public final static int EDIT_REQUEST_CODE = 20;
     //keys used for passing data between activites
